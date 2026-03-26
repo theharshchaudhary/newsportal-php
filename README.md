@@ -44,12 +44,12 @@ http://localhost/project-folder-name
 
 ---
 
-##📌 Future Improvements
+## 📌 Future Improvements
 User authentication system
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 Harsh Chaudhary
 
 Portfolio: [https://harshchaudhary.com.np/public/]
