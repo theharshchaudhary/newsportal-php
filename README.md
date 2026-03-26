@@ -32,4 +32,27 @@ A dynamic and responsive News Portal web application built using **PHP** and **M
 
 1. Clone the repository  
 ```bash
-git clone (https://github.com/theharshchaudhary/newsportal-php)
+git clone https://github.com/theharshchaudhary/newsportal-php
+
+2. Move project to htdocs (if using XAMPP)
+3. Import the database:
+4. Open phpMyAdmin
+5. Create a database
+6. Import the .sql file
+7. Run the project in browser:
+http://localhost/project-folder-name
+
+---
+
+📌 Future Improvements
+User authentication system
+
+---
+
+👨‍💻 Author
+Harsh Chaudhary
+
+Portfolio: [https://harshchaudhary.com.np/public/]
+⭐ If you like this project
+
+Give it a star ⭐ on GitHub!
