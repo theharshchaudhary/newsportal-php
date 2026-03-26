@@ -32,4 +32,4 @@ A dynamic and responsive News Portal web application built using **PHP** and **M
 
 1. Clone the repository  
 ```bash
-git clone YOUR_GITHUB_REPO_LINK
+git clone (https://github.com/theharshchaudhary/newsportal-php)
