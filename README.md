@@ -24,7 +24,7 @@ A dynamic and responsive News Portal web application built using **PHP** and **M
 
 ## 🎥 Demo
 
-👉 [Watch Demo on YouTube](YOUR_YOUTUBE_LINK_HERE)
+👉 [Watch Demo on YouTube](https://youtu.be/hKTrYHEJK6k?si=xRM0Xz6FQ34ZxXJq)
 
 ---
 
